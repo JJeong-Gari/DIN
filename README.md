@@ -5,7 +5,7 @@ Our paper is accepted at Pattern Recognition Letters!!
 
 Code will be coming soon.
 
-Dataset Download Link : [Dataset]([https://zenodo.org/record/1214456#.ZfjjttJBwUF](https://github.com/SLDGroup/MERIT/tree/main))
+Dataset Download Link : [Dataset](https://zenodo.org/record/1214456#.ZfjjttJBwUF](https://github.com/SLDGroup/MERIT/tree/main))
 
 ## Overall Architecture
 
